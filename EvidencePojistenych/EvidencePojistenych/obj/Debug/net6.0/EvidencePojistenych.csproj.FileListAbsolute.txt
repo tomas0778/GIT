@@ -1,0 +1,15 @@
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\bin\Debug\net6.0\EvidencePojistenych.exe
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\bin\Debug\net6.0\EvidencePojistenych.deps.json
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\bin\Debug\net6.0\EvidencePojistenych.runtimeconfig.json
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\bin\Debug\net6.0\EvidencePojistenych.dll
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\bin\Debug\net6.0\EvidencePojistenych.pdb
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\obj\Debug\net6.0\EvidencePojistenych.csproj.AssemblyReference.cache
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\obj\Debug\net6.0\EvidencePojistenych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\obj\Debug\net6.0\EvidencePojistenych.AssemblyInfoInputs.cache
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\obj\Debug\net6.0\EvidencePojistenych.AssemblyInfo.cs
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\obj\Debug\net6.0\EvidencePojistenych.csproj.CoreCompileInputs.cache
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\obj\Debug\net6.0\EvidencePojistenych.dll
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\obj\Debug\net6.0\refint\EvidencePojistenych.dll
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\obj\Debug\net6.0\EvidencePojistenych.pdb
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\obj\Debug\net6.0\EvidencePojistenych.genruntimeconfig.cache
+C:\Users\01w\Sync\EvidencePojistenych\EvidencePojistenych\obj\Debug\net6.0\ref\EvidencePojistenych.dll
